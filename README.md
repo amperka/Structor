@@ -5,4 +5,4 @@
 Constructor of 5 mm of PVC foam for the manufacture of shells diy-electronics
 
 <br><br><br><br><br><br>
-<div><p style="text-align: center"><img width="50%" height="50%" src="https://raw.githubusercontent.com/TaniaMol/Structor/master/Presentation/interface.gif"/></p></div>
+<img align="center" width="50%" height="50%" src="https://raw.githubusercontent.com/TaniaMol/Structor/master/Presentation/interface.gif"/>
