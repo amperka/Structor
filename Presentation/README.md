@@ -1,5 +1,5 @@
 # Power Point presentation
-For Butia-meeting (Montevideo, Uruguay) [Date:05-26-2017].
+For Butia-meeting (Montevideo, Uruguay) [Date:05-26-2017].\n
 All images property of Amperka.
 Source: http://wiki.amperka.ru/structor:описание
 
