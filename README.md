@@ -3,7 +3,7 @@
 
 Constructor of 5 mm of PVC foam for the manufacture of shells diy-electronics
 
-<br><br><br><br><br><br>
+<br><br>
 <p align="center">
 <img align="center" width="50%" height="50%" src="https://raw.githubusercontent.com/TaniaMol/Structor/master/O/scad.gif"/>
 </p>
